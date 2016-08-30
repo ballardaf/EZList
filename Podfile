@@ -1,6 +1,6 @@
 use_frameworks!
 
-target “EZList”
+target 'EZList'
 
 pod 'Cartography', '~> 0.6.0'
 pod 'Material', '~> 1.42.8'
